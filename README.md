@@ -2,7 +2,12 @@
 
 Rowing trophy customized for Kiel University Rowing.
 
-Edit the text in `rowing-base-uni-kiel.FCStd` using [FreeCAD](https://www.freecadweb.org/).
+![3D view of rowing trophy base which has "Rudern Uni Kiel 2022" on the sides](rudern-uni-kiel-trophy.png)
+
+## Editing text
+
+To edit texts on the base in `rowing-base-uni-kiel.FCStd` using [FreeCAD](https://www.freecadweb.org/),
+just edit any `ShapeString` and recompute the model. The export `Fusion` to `.stl`.
 
 ## Print
 
