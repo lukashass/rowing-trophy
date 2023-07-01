@@ -12,7 +12,11 @@ just edit any `ShapeString` and recompute the model. Then export `Fusion` to `.s
 ## Print
 
 - Files: `blade.stl` and `rowing-base-uni-kiel-Fusion.stl`
-- Size: 20%
+- Size:
+  - 2021: 20%
+  - 2023:
+    - blade: 24%
+    - base: 25%
 - Material: PLA
 
 ## Attributions
