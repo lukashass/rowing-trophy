@@ -6,7 +6,7 @@ Rowing trophy customized for Kiel University Rowing.
 
 ## Editing text
 
-To edit texts on the base in `rowing-base-uni-kiel.FCStd` using [FreeCAD](https://www.freecadweb.org/),
+To edit texts on the base in `rowing-base-uni-kiel.FCStd` using [FreeCAD](https://www.freecadweb.org/) (last working [version](https://github.com/FreeCAD/FreeCAD/commit/4f167b828b68b1544732881f0b2393ea873cffd1)),
 just edit any `ShapeString` and recompute the model. Then export `Fusion` to `.stl`.
 
 ## Print
